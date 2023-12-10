@@ -1,8 +1,5 @@
 # -*- coding: UTF-8 -*-
-"""
-@Author  : liyanbo
 
-"""
 import datetime
 import time
 import argparse
